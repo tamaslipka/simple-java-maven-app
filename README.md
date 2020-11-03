@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TamasLipka/Tamas_Lipka/_apis/build/status/tamaslipka.pipelines-java?branchName=master)](https://dev.azure.com/TamasLipka/Tamas_Lipka/_build/latest?definitionId=1&branchName=master)
 # simple-java-maven-app
 
 This repository is for the
